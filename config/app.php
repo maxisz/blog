@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost/blog'),
+    'url' => env('APP_URL', 'https://mic-blog.herokuapp.com/'),
 
     'asset_url' => env('ASSET_URL', null),
 
